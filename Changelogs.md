@@ -1,4 +1,4 @@
- **Updates:**
+**Updates:**
 > Main RPG systems
 ```
 - Added punching
@@ -13,7 +13,7 @@
 > Adding statuses and knockback
 ```
 - Added stuns
-- Working on knockback
+- Added basic knockback
 ```
 > Adding more moves
 
