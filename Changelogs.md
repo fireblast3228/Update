@@ -1,5 +1,31 @@
-# Update | Pre release
+# Updates:
+<details>
+  <summary>Main RPG System</summary>
+    
+    Added punching
+  
+    Level system 
+    
+    Stats 
+    
+    Enemies
+    
+    Save system
+    
+    Damage Indicator
+    
+</details>
 
-> Added new features and damage indicators.
+# Planned:
+  Finishing the map
+  
+  <details>
+  <summary>Adding statuses and knockback</summary>
+  
+  - Currently adding stuns and knockback
+  
+  </details>
+  
+  Adding more moves
 
-> Working on finishing the map and adding features
+**Game tests coming soon!**
