@@ -1,20 +1,28 @@
-**Updates:**
-> Main RPG systems
-```
-- Added punching
-- Level system
-- Stats
-- Enemies
-- Save system
-```
-**Planned:**
-> Finishing the map
+## **Updates:**
+ 
+> Main
+  
+  - Improved datastore handler  
+  - Rewritten combat system
+  - New and improved status effect system
+  - Easier implemetation for data handling
+  - Better hitboxes
+  - Adjusting damage values
+  - Adjusted animations
+  - Smoother overall feel
+  - Notications!
+  
 
-> Adding statuses and knockback
-```
-- Added stuns
-- Added basic knockback
-```
-> Adding more moves
+## **Planned:**
+
+> Adding new status and multi attack systems
+  - Improving UIs for statuses and attacks
+> Fixing up GUIs and improving scripts
+  - Adding animations and more features to GUIs
+  - Working on a cleaner feel on scripts 
+  - Adding GUIs for basic stats like health, levels, etc
+> NPCs and quests
+  - Reworking the NPCs
+  - Adding a new and improved quest system.
 
 **Game tests coming soon!**
