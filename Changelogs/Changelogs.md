@@ -25,6 +25,6 @@
   - Reworking the NPCs
   - Adding a new and improved quest system.
 
-**To view change logs click [here](https://github.com/fireblast3228/Update/commits/main/Changelogs.md)**
+**To view change logs click [here](https://github.com/fireblast3228/Update/tree/main/Changelogs)**
 
 **Game tests coming soon!**
