@@ -11,6 +11,7 @@
   - Adjusted animations
   - Smoother overall feel
   - Notications!
+  - Reward system for NPC
   
 
 ## **Planned:**
