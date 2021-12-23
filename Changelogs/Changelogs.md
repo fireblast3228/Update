@@ -2,26 +2,20 @@
  
 > Main
   
-  - Improved datastore handler  
-  - Rewritten combat system
-  - New and improved status effect system
-  - Easier implemetation for data handling
-  - Better hitboxes
-  - Adjusting damage values
-  - Adjusted animations
-  - Smoother overall feel
-  - Notications!
-  - Reward system for NPC
+  - Improved GUIs
+  - Improved Handling and bug fixes
+  - Improved data handling and retrieving
+  - Improved Menu
+  - Working on damage attacks and overall gameplay and main handlers
   
 
 ## **Planned:**
-
 > Adding new status and multi attack systems
   - Improving UIs for statuses and attacks
-> Fixing up GUIs and improving scripts
-  - Adding animations and more features to GUIs
-  - Working on a cleaner feel on scripts 
-  - Adding GUIs for basic stats like health, levels, etc
+> Improving Inventory
+  - Adding and improving the inventory gui
+  - Allowing inventory to save equipment across servers
+  - Saving items and choices
 > NPCs and quests
   - Reworking the NPCs
   - Adding a new and improved quest system.
